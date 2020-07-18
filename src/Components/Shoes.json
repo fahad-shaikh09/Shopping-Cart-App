@@ -1,32 +1,32 @@
 {
-  "air-jordan-3-valor-blue" : {
-    "name": "VALOUR BLUE",
+  "lace-up-shoes-blue" : {
+    "name": "PAIR OF BLUE LACE UP SHOES",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
-  "jordan-mars-270-london": {
-    "name": "JORDAN MARS 270 LONDON",
+  "vans-sneakers": {
+    "name": "VANS SNEAKERS",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
-  "air-jordan-1-zoom-racer-blue": {
-    "name": "RACER BLUE",
+  "nike-black": {
+    "name": "NIKE",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
-  "air-jordan-3-valor-blue1": {
-    "name": "VALOUR RED",
+  "nike-air-force": {
+    "name": "NIKE AIR FORCE",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/2048548/pexels-photo-2048548.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
-  "jordan-mars-270-london2": {
-    "name": "JORDAN MARS 270 UK",
+  "mike-low-top-sneakers": {
+    "name": "NIKE LOW TOP SNEAKERS",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/1503009/pexels-photo-1503009.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
-  "air-jordan-1-zoom-racer-blue3": {
-    "name": "RACER RED",
+  "red-white-low-top-sneakers": {
+    "name": "RED AND WHITE LOW TOP SNEAKERS",
     "img":
-      "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+      "https://images.pexels.com/photos/1449844/pexels-photo-1449844.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   }
 }
