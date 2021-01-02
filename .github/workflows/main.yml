@@ -34,4 +34,4 @@ jobs:
       run: npm install --global surge
 
     - name: Deploy to Surge
-      run: surge ./build fahad-shopping-cart.surge.sh --token ${{ secrets.surgetoken }}
+      run: surge ./build fahad-shopping-cart-app.surge.sh --token ${{ secrets.surgetoken }}
